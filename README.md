@@ -1,7 +1,6 @@
 <h1>👋Hi, I'm Bendjy, an <a href="https://linkedin.com/in/bendjylavoir">IT Professional</a></h1>
 
-- Learning IT through self-learning and CourseCareers
-- Currently studying for CompTIA A+
+- Always learning IT, studying CompTIA, and proud CourseCareers graduate.
 
 <h2>💻Information Technology Projects:</h2>
 
