@@ -1,6 +1,6 @@
 <h1>👋Hi, I'm Bendjy, an <a href="https://linkedin.com/in/bendjylavoir">IT Professional</a></h1>
 
-- Always learning IT, studying CompTIA, and proud CourseCareers graduate.
+- Currently studying and experimenting to become a Network Engineer (working on Network+ currently)
 
 <h2>💻Information Technology Projects:</h2>
 
