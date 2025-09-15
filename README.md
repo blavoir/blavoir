@@ -4,6 +4,8 @@
 
 <h2>💻Information Technology Projects:</h2>
 
+- **My Current Homelab**
+  - [Homelab](https://github.com/blavoir/homelab)
 - <b>Help Desk Ticketing System</b>
   - [osTicket: Prerequisites and Installation](https://github.com/blavoir/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/blavoir/post-install-config)
