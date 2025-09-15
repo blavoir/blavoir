@@ -7,9 +7,7 @@
 - **My Current Homelab**
   - [Homelab](https://github.com/blavoir/homelab)
 - <b>Help Desk Ticketing System</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/blavoir/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/blavoir/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/blavoir/ticket-lifecycle)
+  - [IT Help Desk Ticketing System Deployment with osTicket](https://github.com/blavoir/osticket)
 - <b>Microsoft Azure</b>
   - [Enterprise IT Infrastructure Simulation with AD DS](https://github.com/blavoir/active-directory)
   - [Network Traffic Analysis and Troubleshooting with Wireshark](https://github.com/blavoir/network-traffic-analysis)
