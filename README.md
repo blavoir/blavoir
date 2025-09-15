@@ -1,6 +1,6 @@
 <h1>👋Hi, I'm Bendjy, an <a href="https://linkedin.com/in/bendjylavoir">IT Professional</a></h1>
 
-- Currently studying and experimenting to become a Network Engineer (working on Network+ currently)
+- Currently studying and experimenting to become a Network Engineer
 
 <h2>💻Information Technology Projects:</h2>
 
@@ -9,8 +9,8 @@
   - [osTicket: Post-Installation Configuration](https://github.com/blavoir/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/blavoir/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Enterprise IT Infrastructure Simulation with AD DS](https://github.com/blavoir/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/blavoir/azure-network-protocols)
+  - [Enterprise IT Infrastructure Simulation with AD DS](https://github.com/blavoir/active-directory)
+  - [Network Traffic Analysis and Troubleshooting with Wireshark](https://github.com/blavoir/network-traffic-analysis)
 
 <h2>➕Connect with me:</h2>
 
