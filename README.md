@@ -9,7 +9,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/blavoir/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/blavoir/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/blavoir/configure-ad)
+  - [Enterprise IT Infrastructure Simulation with AD DS](https://github.com/blavoir/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/blavoir/azure-network-protocols)
 
 <h2>➕Connect with me:</h2>
