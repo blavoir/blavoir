@@ -7,6 +7,7 @@
 - **My Current Homelab**
   - [Homelab](https://github.com/blavoir/homelab)
 - <b>Help Desk Ticketing System</b>
+  - [ServiceNow ITSM: Ticketing, Incident, and Asset Tracking System](https://github.com/blavoir/servicenow)
   - [IT Help Desk Ticketing System Deployment with osTicket](https://github.com/blavoir/osticket)
 - <b>Microsoft Azure</b>
   - [Enterprise IT Infrastructure Simulation with AD DS](https://github.com/blavoir/active-directory)
